@@ -2,6 +2,6 @@ function inc(n) {
   n += 1
 }
 
-function inc(n) {
+function dec(n) {
   n -= 1
 }
